@@ -1,6 +1,6 @@
 ### Queste pagine raccolgono le informazioni del corso "pillole di Android"
 
-Il corso è iniziatao il 7 dicembre 2012 con orario 16:30 - 18:30 laboratorio LAS delllo Zuccante via Baglioni 22 - Mestre
+Il corso è iniziato il 7 dicembre 2012 con orario 16:30 - 18:30 laboratorio LAS delllo Zuccante via Baglioni 22 - Mestre
 
 Referente del corso è il prof. Sandro Doro
 
