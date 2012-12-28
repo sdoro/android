@@ -16,7 +16,8 @@ l'attribuzione originale e senza distribuirne copie modificate.
 
 Per la parte implementativa utilizzeremo il live DVD/USB netkit scaricabile da
 [www.netkit.org](http://wiki.netkit.org/index.php/Download_Official)
-che contiene già Eclipse per Mobile, l'SDK per Android
-e il connettore per GitHub.
+che contiene già
+[ADT Bundle for linux 32-bit](http://dl.google.com/android/adt/adt-bundle-linux-x86.zip)
+(Eclipse + ADT pluging e Android SDK).
 
 
