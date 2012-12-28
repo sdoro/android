@@ -18,6 +18,6 @@ Per la parte implementativa utilizzeremo il live DVD/USB netkit scaricabile da
 [www.netkit.org](http://wiki.netkit.org/index.php/Download_Official)
 che contiene già
 [ADT Bundle for linux 32-bit](http://dl.google.com/android/adt/adt-bundle-linux-x86.zip)
-(Eclipse + ADT pluging e Android SDK).
+(Eclipse + ADT plugin e Android SDK).
 
 
