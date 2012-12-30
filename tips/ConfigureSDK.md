@@ -1,6 +1,7 @@
 ### Configure Android SDK
 
-L'ambiente eclipse deve essere informato su dove è stato installato
+In alcune rari casi occorre impostare l'ambiente eclipse con l'indicazione
+di dove è stato installato
 l'ambiente Android SDK. Nel nostro caso deve essere impostato come
 in figura:
 
