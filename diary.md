@@ -11,7 +11,8 @@ un dispositivo reale. Breve introduzione al concetto di risorse.
 lezione 2.  Introduzione alle risorse, file XML, editor per file XML.
 Breve introduzione della costruzione dell'associazione delle risorse.
 
-* 11 Gen - X
+* 11 Gen - approfondimento sulla associazione dei file di risorse XML
+con AndroidManifest.xml e con i programmi Java. Conclusa lezione 2.
 
 * 18 Gen - X
 
