@@ -14,7 +14,7 @@ Breve introduzione della costruzione dell'associazione delle risorse.
 * 11 Gen - approfondimento sulla associazione dei file di risorse XML
 con AndroidManifest.xml e con i programmi Java. Conclusa lezione 2.
 
-* 18 Gen - X
+* 18 Gen - Introduzione alle acctivity.
 
 
 
