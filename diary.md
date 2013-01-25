@@ -16,3 +16,5 @@ con AndroidManifest.xml e con i programmi Java. Conclusa lezione 2.
 
 * 18 Gen - Lezione 3: introduzione alle attività ([pagina cicloDiVita da stampare](http://i.stack.imgur.com/1byIg.png)).
 
+* 25 Gen - Lezione 3: le sotto attività.
+
