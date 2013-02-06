@@ -18,6 +18,6 @@ con AndroidManifest.xml e con i programmi Java. Conclusa lezione 2.
 
 * 25 Gen - Lezione 3: le sotto attività.
 
-* 5 Feb - inizio Lezione 4 (variazione orario dal venerdì al martedì).
+* 19 Feb - inizio Lezione 4 (variazione orario dal venerdì al martedì).
 
 
