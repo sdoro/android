@@ -19,7 +19,7 @@ con AndroidManifest.xml e con i programmi Java. Conclusa lezione 2.
 * 25 Gen - Lezione 3: le sotto attività.
 
 * 19 Feb - inizio Lezione 4 (variazione orario dal venerdì al martedì)
-[schema di layout](https://raw.github.com/sdoro/android/master/tips/img/layout.pdf).
+([schema del layout di fine lezione](https://raw.github.com/sdoro/android/master/tips/img/layout.pdf)).
 
 * 26 Feb - inizio Lezione 5.
 
