@@ -31,21 +31,19 @@ con AndroidManifest.xml e con i programmi Java. Conclusa lezione 2.
 
 * 9 Apr - inizio Lezione 7.
 
-* 16 Apr - fine Lezione 7.
+* 23 Apr - fine Lezione 7.
 
-* 23 Apr - fine Lezione 8.
+* 30 Apr - inizio Lezione 8.
 
-* 30 Apr - fine Lezione 8.
+* 7 Mag - fine Lezione 8.
 
-* 7 Mag - fine Lezione 9.
+* 14 Mag - inizio Lezione 9.
 
-* 14 Mag - fine Lezione 9.
+* 21 Mag - fine Lezione 9.
 
-* 21 Mag - fine Lezione 10.
+* 28 Mag - inizio Lezione 10.
 
-* 28 Mag - fine Lezione 10.
-
-* 4 Giu - Lezione 11.
+* 4 Giu - fine Lezione 10.
 
 
 
