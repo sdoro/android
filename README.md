@@ -8,11 +8,16 @@ Zuccante via Baglioni 22 - Mestre (VE)
 
 Referente/tutor del corso è il prof. Sandro Doro
 
-Il materiale utilizzato sarà in prevalenza quello di Carlo Pelliccia
+Il materiale utilizzato sarà quello di
+[Carlo Pelliccia]
+(http://www.sauronsoftware.it/carlopelliccia/)
+intitolate
 [Lezioni di Programmazione su Android]
-(http://www.sauronsoftware.it/teaching/uniroma2/android/)
+(http://www.sauronsoftware.it/teaching/uniroma2/2013/android/)
 che ci ha autorizzato ad utilizzarlo con l'obbligo di mantenerne
 l'attribuzione originale e senza distribuirne copie modificate.
+Mille grazie per l'anno 2012 e per il corrente A.S. 2013/14 da parte
+di un gruppo di docenti dell'Istituto.
 
 Per la parte implementativa utilizzeremo il live DVD/USB netkit scaricabile da
 [www.netkit.org](http://wiki.netkit.org/index.php/Download_Official)
