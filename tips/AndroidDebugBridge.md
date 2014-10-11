@@ -6,7 +6,7 @@ contenuto:
 
 SUBSYSTEM=="usb", ATTR{idVendor}=="04e8", MODE="0666", GROUP="plugdev"
 
-il mio device ha idVendor 04e8 ;)
+il mio device ha idVendor 04e8 (Samsung).
 Come lo posso scoprire? Dopo aver inserito il cavo con il cellulare acceso
 sulla porta USB del pc basta scorrere
 l''output del comando dmesg. Un''alternativa invece:
